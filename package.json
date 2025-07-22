@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://rajendraprasadhs.github.io/Portfolio2",
+  "homepage": "https://Rajendra1103.github.io/Portfolio2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
